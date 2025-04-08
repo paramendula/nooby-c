@@ -7,3 +7,5 @@
 : f bar blip bar blip blip cr cr ;
 
 f
+
+bye
