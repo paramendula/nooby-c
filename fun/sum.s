@@ -1,4 +1,5 @@
 // accumulate numbers from the stdin until 0 is encountered
+// TODO
 
 .section .data
 greet_msg: .ascii "Enter integers, 0 to stop: "
